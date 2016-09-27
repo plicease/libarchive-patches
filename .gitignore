@@ -1,0 +1,17 @@
+*.o
+.deps/
+*.lo
+.libs/
+*.cache/
+/Makefile
+/bsdcat
+/bsdcpio
+/bsdtar
+/build/pkgconfig/libarchive.pc
+.dirstamp
+/libtool
+/stamp-h1
+*.la
+/config.h
+/config.log
+/config.status
